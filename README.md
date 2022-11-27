@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisGk89.
-- 👀 I’m interested in Front End Development, Crypto and NFTs
+- 👀 I’m interested in Front End Development, Crypto and NFTs.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a sustainability project application
 - 📫 How to reach me info@chrisgkalfas.com
