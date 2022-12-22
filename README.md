@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a sustainability project application
 - 📫 How to reach me info@chrisgkalfas.com
-- 🖥 How to see all my info https://chrisgkalfas.com.
+- 🖥 How to see all my info https://chrisgkalfas.com
 - 📣 Where we can talk chris_gk1.
 
 <!---
