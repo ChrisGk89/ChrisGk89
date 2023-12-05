@@ -48,6 +48,11 @@ I believe in continuous learning, and I'm currently exploring:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisGk89&theme=dark)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChrisGk89&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ChrisGk89&icon=2&color=2)](https://visitcount.itsvg.in)
 
 ## 📫 Let's Connect
 
@@ -58,18 +63,6 @@ I believe in continuous learning, and I'm currently exploring:
 Feel free to explore my repositories, and if you find anything interesting, don't hesitate to star or contribute!
 
 Happy coding! 🚀
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChrisGk89&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChrisGk89&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ChrisGk89&icon=2&color=2)](https://visitcount.itsvg.in)
-  
 
 <!---
 ChrisGk89/ChrisGk89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
