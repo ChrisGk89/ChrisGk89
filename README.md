@@ -52,7 +52,7 @@ I believe in continuous learning, and I'm currently exploring:
 ![](https://github-profile-trophy.vercel.app/?username=ChrisGk89&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChrisGk89&icon=2&color=2)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=ChrisGk89&icon=2&color=2)](https://visitcount.itsvg.in) -->
 
 ## 📫 Let's Connect
 
