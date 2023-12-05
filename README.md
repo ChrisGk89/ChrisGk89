@@ -12,9 +12,9 @@ Passionate about coding and creating awesome software, I'm a [Your Job Title/Rol
 
 ## 🚀 What I Do
 
-- 💻 Full-stack Developer
+- 💻 Front-End Developer
 - 🌐 Web Enthusiast
-- 📱 Mobile App Developer
+- 📱 Mobile App Experimentation
 - 🌈 UI/UX Design Advocate
 
 # 💻 Tech Stack:
