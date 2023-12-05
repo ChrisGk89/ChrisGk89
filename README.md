@@ -67,7 +67,8 @@ I believe in continuous learning, and I'm currently exploring:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/christos-gkalfas/)
+- 💼 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+(https://www.linkedin.com/in/christos-gkalfas/)
 - 🐦 [Twitter](https://twitter.com/Chris_Gk89)
 - 🌐 [Personal Website](https://www.chrisgkalfas.com)
 
