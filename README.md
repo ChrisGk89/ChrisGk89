@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Christos
 
-Passionate about coding and creating awesome software, I'm a [Your Job Title/Role] based in [Your Location]. My journey in the world of programming has been an exciting adventure, and I'm always eager to learn and explore new technologies.
+Passionate about coding and creating awesome software, I'm a Front-End Developer based in Greece. My journey in the world of programming has been an exciting adventure, and I'm always eager to learn and explore new technologies.
 
 ## 🚀 What I Do
 
