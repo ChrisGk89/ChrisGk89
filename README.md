@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @ChrisGk89
-- 👀 I’m interested in Front End Development, Crypto and NFTs
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on a sustainability project application
-- 📫 How to reach me info@chrisgkalfas.com
-- 🖥 How to see all my info https://chrisgkalfas.com
-- 📣 Where we can talk chris_gk1
-
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello World! I'm Christos
 
 Passionate about coding and creating awesome software, I'm a [Your Job Title/Role] based in [Your Location]. My journey in the world of programming has been an exciting adventure, and I'm always eager to learn and explore new technologies.
 
@@ -28,6 +20,7 @@ Passionate about coding and creating awesome software, I'm a [Your Job Title/Rol
 I believe in continuous learning, and I'm currently exploring:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
@@ -63,7 +56,7 @@ Using my favorite e-learning
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christos-gkalfas/)
 - 🐦 [Twitter](https://twitter.com/Chris_Gk89)
-- 🌐 [Personal Website](https://www.yourwebsite.com)
+- 🌐 [Personal Website](https://www.chrisgkalfas.com)
 
 Feel free to explore my repositories, and if you find anything interesting, don't hesitate to star or contribute!
 
