@@ -62,12 +62,7 @@ Happy coding! 🚀
 ![](https://github-profile-trophy.vercel.app/?username=ChrisGk89&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarryKing87&icon=2&color=2)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/codingharry) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=ChrisGk89&icon=2&color=2)](https://visitcount.itsvg.in)
   
 
 <!---
