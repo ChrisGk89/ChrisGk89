@@ -33,10 +33,6 @@ I believe in continuous learning, and I'm currently exploring:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisGk89&show_icons=true&count_private=true&hide=issues,prs&theme=radical)
 
-## 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChrisGk89&theme=rogue)
-
 ## 🌟 GitHub Achievements
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGk89&layout=compact)
