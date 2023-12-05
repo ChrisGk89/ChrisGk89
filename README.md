@@ -32,11 +32,13 @@ I believe in continuous learning, and I'm currently exploring:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisGk89&show_icons=true&count_private=true&hide=issues,prs&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=HarryKing87&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🌟 GitHub Achievements
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGk89&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisGk89&theme=dark)
 
@@ -52,12 +54,12 @@ Feel free to explore my repositories, and if you find anything interesting, don'
 Happy coding! 🚀
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarryKing87&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarryKing87&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryKing87&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChrisGk89&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarryKing87&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ChrisGk89&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HarryKing87&icon=2&color=2)](https://visitcount.itsvg.in)
