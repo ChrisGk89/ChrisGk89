@@ -32,7 +32,7 @@ I believe in continuous learning, and I'm currently exploring:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisGk89&show_icons=true&count_private=true&hide=issues,prs&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=issues,prs&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=issues,prs)<br/>
 
 ## 🌟 GitHub Achievements
 
