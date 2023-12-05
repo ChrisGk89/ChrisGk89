@@ -35,6 +35,16 @@ I believe in continuous learning, and I'm currently exploring:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=issues,prs&theme=radical)
 
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=rogue)
+
+## 🌟 GitHub Achievements
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+
 ## 📂 Featured Projects
 
 Here are some of the projects I'm proud of:
@@ -53,6 +63,7 @@ Here are some of the projects I'm proud of:
 Feel free to explore my repositories, and if you find anything interesting, don't hesitate to star or contribute!
 
 Happy coding! 🚀
+
 
 
 <!---
