@@ -23,7 +23,7 @@ I believe in continuous learning, and I'm currently exploring:
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-##🎓 My favorite e-learning sources:
+#🎓 My favorite e-learning sources:
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -33,14 +33,14 @@ I believe in continuous learning, and I'm currently exploring:
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
-# 💻 Favorite IDEs / Editors:
+## 💻 Favorite IDEs / Editors:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisGk89&show_icons=true&count_private=true&hide=issues,prs&theme=radical)-->
 ![](https://github-readme-stats.vercel.app/api?username=ChrisGk89&theme=radical&hide_border=false&include_all_commits=true&show_icons=true&count_private=true)<br/>
@@ -49,7 +49,7 @@ I believe in continuous learning, and I'm currently exploring:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGk89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌟 GitHub Streak Stats
+# 🌟 GitHub Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisGk89&theme=dark)
 
@@ -59,7 +59,7 @@ I believe in continuous learning, and I'm currently exploring:
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=ChrisGk89&icon=2&color=2)](https://visitcount.itsvg.in) -->
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christos-gkalfas/)
 - 🐦 [Twitter](https://twitter.com/Chris_Gk89)
