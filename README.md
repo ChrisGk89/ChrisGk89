@@ -6,7 +6,7 @@ Passionate about coding and creating awesome software, I'm a Front-End Developer
 
 - 💻 Front-End Developer
 - 🌐 Web Enthusiast
-- 📱 Mobile App Experimentation
+- 📱 Mobile/Hybrid App Developer
 - 🌈 UI/UX Design Advocate
 
 ## 💻 Tech Stack
