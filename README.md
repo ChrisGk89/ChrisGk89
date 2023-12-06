@@ -68,8 +68,7 @@ I believe in continuous learning, and I'm currently exploring:
 ## 📫 Let's Connect
 
 - 💼 FACEBOOK (https://www.linkedin.com/in/christos-gkalfas/)
-- 🐦 TWITTER (https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-(https://twitter.com/Chris_Gk89)
+- 🐦 TWITTER (https://twitter.com/Chris_Gk89)
 - 🌐 PERSONAL WEBSITE (https://www.chrisgkalfas.com)
 
 Feel free to explore my repositories, and if you find anything interesting, don't hesitate to star or contribute!
